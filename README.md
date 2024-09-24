@@ -31,7 +31,6 @@ This project is a simple e-commerce platform built with React. It fetches produc
 ## Tech Stack
 
 - **React**: Front-end framework.
-- **Axios**: For fetching data from the fake API.
 - **CSS**: For styling the application.
 
 Currently, two official plugins are available:
